@@ -4,6 +4,9 @@ Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Dig
 
 O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
 
+ACESSE AQUI : https://brunodosanjoss.github.io/cv/
+
+
 **Referências:**
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
